@@ -42,10 +42,6 @@ local function split_csv(record)
     return rv
 end
 
-multiline_string = [[this --
-is a
-multiline string
-]]
 -- declare a module variable to hold header
 local headers
 

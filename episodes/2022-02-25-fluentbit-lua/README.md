@@ -1,4 +1,5 @@
-To start the presentation, run:
+To start the presentation, install [marp-cli](https://github.com/marp-team/marp-cli/releases),
+then run:
 
 ```
 make present
